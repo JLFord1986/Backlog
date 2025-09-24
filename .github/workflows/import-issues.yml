@@ -1,0 +1,17 @@
+name: Import Issues from CSV
+
+on:
+  workflow_dispatch:
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Import issues from CSV
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: ${{ steps.csv.outputs.title }}
+          content-filepath: ./issues.csv
