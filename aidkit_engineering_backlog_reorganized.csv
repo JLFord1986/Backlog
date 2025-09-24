@@ -1,0 +1,504 @@
+Initiative,Epic,Task ID,Name,Subtask?,Priority,Customer,Customer Priority Context,Due Date (Adjusted),Completed At,Estimated Hours,Resourcing Impact,Status,Feature Set,Must Deliver in 90 Days?
+Security & Compliance,Vanta Compliance Improvements,1209092927239551,[Vanta] Add PII tagging to Distro,No,Low,,,2025-09-24,,,Platform,Open,,No
+Admin UI / AST,Admin Status Tracking,1211414408802365,AST: 👁 Viewed should not change status from open [to viewed],No,High,,,2025-09-23,,20.0,Product,Open,,Yes
+Admin UI / AST,Admin Status Tracking,1211412072859757,"AST: Move ""Assigned to"" to the Actions Column",No,Medium,,,2025-09-24,,40.0,Product,Open,,No
+Admin UI / AST,Admin Status Tracking,1.21141E+15,AST: Add “Resolved By” to Resolved view,No,Medium,,,2025-09-26,,5.0,Product,Open,,No
+Document Assistance,Document Intake Improvements,1211123913768993,DA - Birth Docs - Upload Birth Certificate as proof of birth,Yes,High,,,NaT,,40.0,Product,Open,Document Assistance,Yes
+Document Assistance,nan - Customer Requests,1211432756069843,Create v0 Message Template for Doc Type Check,Yes,,,,NaT,,40.0,Product,Open,,No
+Notifications & Comms,nan - Customer Requests,1211432756069844,Create v0 Message Template for Extracting Fields,Yes,,,,NaT,,40.0,Platform,Open,,No
+Document Assistance,nan - Customer Requests,1211432756069845,Achieve <50% FPR for Doc Type Check,Yes,,,,NaT,,,Product,Open,,No
+Uncategorized,nan - Customer Requests,1211432756069846,Achieve <50% FPR for Required Fields Check,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211432756069847,Configure Inline Alerting,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,Document Intake Improvements,1211432756069949,Import Documents & Recollect Reasons for Testing,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Document Assistance,Document Intake Improvements,1211123913768997,DA - Birth Docs - Upload Certificate of Live Birth as proof of birth,Yes,High,,,NaT,,40.0,Product,Open,Document Assistance,Yes
+Document Assistance,nan - Customer Requests,1211432756069848,Create v0 Message Template for Doc Type Check,Yes,,,,NaT,,,Product,Open,,No
+Notifications & Comms,nan - Customer Requests,1211432756069849,Create v0 Message Template for Extracting Fields,Yes,,,,NaT,,,Platform,Open,,No
+Document Assistance,nan - Customer Requests,1.21143E+15,Achieve <50% FPR for Doc Type Check,Yes,,,,NaT,,,Product,Open,,No
+Uncategorized,nan - Customer Requests,1211432756069851,Achieve <50% FPR for Required Fields Check,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211432756069852,Configure Inline Alerting,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,Document Intake Improvements,1.21143E+15,Import Documents & Recollect Reasons for Testing,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210139580111536,Create Read Only view for people on surveys,No,High,,,2025-10-07,,40.0,Needs Assignment,Open,,Yes
+Platform Core,nan - Customer Requests,1211365398334306,Backend immutability (RS) ,Yes,,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1211365398334307,Frontend Screeners Can View surveys but not edit,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211365398334311,Consider Readonly View for each component,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1.21137E+15,Consider Show Fields -> ReadOnly view for each component,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211414885457901,Requesting a better way to display reviewer stats in dashboards,No,Medium,,,2025-09-26,,5.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211397346025834,Give Directly Endpoints,No,High,,,2025-09-24,,40.0,Needs Assignment,Open,,Yes
+Uncategorized,nan - Customer Requests,1.21135E+15,Add Claim from Protected Search Functionality,No,High,,,2025-09-24,,40.0,Needs Assignment,Open,,Yes
+Uncategorized,nan - Customer Requests,1210708837013976,Info in id_front_text is outdated or removed,No,High,,,2025-08-22,2025-09-16,40.0,Needs Assignment,Completed,,Yes
+Uncategorized,nan - Customer Requests,1.21119E+15,Error message when enabling flup notif without parent notif being enabled,No,High,,,2025-09-30,,20.0,Needs Assignment,Open,,Yes
+Uncategorized,nan - Customer Requests,1211308935281125,Improve Ability to Delete Dynamo Apps,No,High,,,2025-10-07,,20.0,Needs Assignment,Open,,Yes
+Accessibility & UX,nan - Customer Requests,1211058960162382,"Create a Human-Evaluated Language Layer as Default for Localization strings, Backed Up by AI-Translated i18 Files",No,High,,,NaT,,60.0,Product,Open,,Yes
+Data & Reporting,nan - Customer Requests,1211215750666611,"New Bug Report: When calling interpretation service from a video call, only the host is able to hear them",No,High,,,NaT,,40.0,Platform,Open,,Yes
+Payments & Disbursements,Disbursements Engine,1211266068797433,Distro Search not finding targets defined in sibling conditional blocks,No,Low,,,2025-10-07,,40.0,Platform,Open,,No
+Payments & Disbursements,Disbursements Engine,1211115464351983,Distro Notif Guardrails: Require Check Query and Simulation of Notifs before Publishing,No,High,,,NaT,,40.0,Platform,Open,,Yes
+Uncategorized,nan - Customer Requests,1211093309326889,RS Serialization Problem,No,High,,,NaT,,40.0,Needs Assignment,Open,,Yes
+Uncategorized,nan - Customer Requests,1211093387412102,Short term fix - import calls RS sequentially,Yes,,,,NaT,2025-08-19,,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1211093387412103,"Medium term fix - import calls a bulkComputeAndSave, which loads the survey once, and then calls computeAndSave for each app sequentially",Yes,,,,NaT,,,Needs Assignment,Open,,No
+Document Assistance,nan - Customer Requests,1211093387412098,Understand how to reproduce - create a doc,Yes,,,,NaT,,,Product,Open,,No
+Uncategorized,nan - Customer Requests,1211093387412096,Proposal to Fix,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211093387412097,Fix in test instance - Sakura or testsave,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1.21109E+15,Rollout Fix to lacountyfoodsystems and backtoschoolwithsave,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211093387412101,Rollout fix to all programs,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Payments & Disbursements,Disbursements Engine,1210992269862597,Distro Banner/Other to Let User know of unpublished changes,No,Medium,,,NaT,,20.0,Platform,Open,,No
+Payments & Disbursements,Disbursements Engine,1211083415725486,Change banner color for local vs prod Distro,Yes,,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1211080548825906,Add optional validation to InlineSignature where typed value must equal legal_name,No,,,,2025-10-14,,20.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210164620916779,Support Table Revamp ,No,High,,,2025-10-07,,40.0,Needs Assignment,Open,,Yes
+Uncategorized,nan - Customer Requests,1211205200919897,Make DataTable search more flexible,Yes,,,,NaT,2025-09-03,40.0,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1211205200919899,Redesign modern support table with consolidated columns,Yes,High,,,2025-09-12,2025-09-21,40.0,Needs Assignment,Completed,,Yes
+Uncategorized,nan - Customer Requests,1211216846312839,Add 'resolved_at' as a modern Support Table column,Yes,,,,2025-09-15,2025-09-21,20.0,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1211255805299619,Modify support requests query to return last message text regardless of needs_attention value,Yes,,,,2025-09-15,2025-09-22,40.0,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1211255803669282,Use program timezone for timestamps and Include timezone,Yes,Medium,,,2025-10-07,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211255805299621,Add option to display one-click DataTable action buttons,Yes,,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211205201903884,Add filters for Support Table v3,Yes,,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211380425038509,Hook up server-side pagination for Support Table v3,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211205201903887,Add the option to show/hide fields,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211205201903885,Sync modern support table with url,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Payments & Disbursements,nan - Customer Requests,1211432765865573,Call disconnects when navigating to Payments page during active call,No,High,,,2025-09-29,,40.0,Platform,Open,,Yes
+Uncategorized,nan - Customer Requests,1211321154904237,Make subject line for liveness link configurable,No,Medium,,,2025-10-08,,20.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211378426187659,Redirect URL Issues ,No,High,,,2025-10-07,,40.0,Needs Assignment,Open,,Yes
+Uncategorized,nan - Customer Requests,1210805299662287,Support Emailing to Multiple Emails at once - BCC everyone?,No,High,,,NaT,,20.0,Needs Assignment,Open,,Yes
+Uncategorized,nan - Customer Requests,1210816269295274,Autofill the Verification Code,No,Medium,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211139504563574,Allow for AEs to configure field validation for client facing /import pages,No,Medium,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1209243884241551,Optional questions are skipped after contact confirmations are completed,No,High,,,2025-01-31,2025-02-03,,Needs Assignment,Completed,,Yes
+Uncategorized,nan - Customer Requests,1207545798293667,[Duplicate] Resume application doesn't always work as expected,No,High,,,NaT,2024-06-26,,Needs Assignment,Completed,,Yes
+Uncategorized,nan - Customer Requests,1207000344855184,[Duplicate] Increase timeout time + add a refresh option for failed custom queries,No,,,,NaT,2024-05-30,20.0,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1.20678E+15,[Duplicate] ITIN Check returns {} sometimes ,No,,,,NaT,2024-03-08,,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1206816706228127,[Duplicate] Unable to update applicant phone number,No,Medium,,,2024-03-19,2024-03-15,,Needs Assignment,Completed,,No
+Document Assistance,nan - Customer Requests,1211151327347956,DA - Test & Compare Different Models' Processing Times and Reasoning Variants,Yes,High,,,2025-09-12,2025-09-22,40.0,Product,Completed,Document Assistance,Yes
+Uncategorized,nan - Customer Requests,1211248669192733,Dashboard Builder -  Bug - Sometimes Descriptions Don't Save,No,,,,NaT,2025-09-22,40.0,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1211411983145913,Spam calls taking up HRF support dashboard,No,High,,,2025-09-22,2025-09-22,40.0,Needs Assignment,Completed,,Yes
+Uncategorized,nan - Customer Requests,1211413108451038,Hard-Code Translation Updates,No,High,,,2025-09-24,2025-09-23,5.0,Needs Assignment,Completed,,Yes
+Uncategorized,nan - Customer Requests,1.21139E+15,copy_editor doesn't save edits,No,High,,,NaT,2025-09-22,40.0,Needs Assignment,Completed,,Yes
+Uncategorized,nan - Customer Requests,1210938116556469,Expires after feature for notif links > Can we please implement this feature?,No,High,,,2025-09-24,2025-09-22,20.0,Needs Assignment,Completed,,Yes
+Uncategorized,nan - Customer Requests,1211295321097416,Request to delete individual data,No,High,,,2025-09-09,2025-09-16,5.0,Needs Assignment,Completed,,Yes
+Security & Compliance,nan - Customer Requests,1211123573085211,Verification Code Associated with Program Name,No,Low,,,NaT,2025-09-16,40.0,Platform,Completed,,No
+Uncategorized,nan - Customer Requests,1.21133E+15,Cook County Redirect Set-Up ,No,High,,,2025-09-12,2025-09-16,40.0,Needs Assignment,Completed,,Yes
+Data & Reporting,nan - Customer Requests,1211059208924774,"New Bug Report: Import Question / Problem: I've been importing several CSVs for Save over the last few days and it appears that everytime I import, some r...",No,High,,,NaT,2025-09-15,40.0,Platform,Completed,,Yes
+Uncategorized,nan - Customer Requests,1.21127E+15,Implement getSurvey() with hydration efficiency,Yes,,,,NaT,2025-09-15,40.0,Needs Assignment,Completed,,No
+Data & Reporting,nan - Customer Requests,1211210795351267,New Bug Report: Surface validation errors in Date question,No,,,,2025-09-23,,20.0,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1211296142210459,"Set by ""Import - [USER UID]"" for values set via import (AK or external partner)",No,Low,,,2025-09-08,2025-09-15,40.0,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1.21125E+15,"Auto-Retry a GC Mailing Error of ""failed to process new authorized user application, timeout error.""""",No,High,,,NaT,2025-09-12,40.0,Needs Assignment,Completed,,Yes
+Uncategorized,nan - Customer Requests,1210200313590751,Notify support agent on Reassign,No,High,,,2025-09-18,2025-09-12,40.0,Needs Assignment,Completed,,Yes
+Uncategorized,nan - Customer Requests,1210104774059475,Add truncated call transcript to 'last messaged' column,No,High,,,NaT,2025-09-11,20.0,Needs Assignment,Completed,,Yes
+Uncategorized,nan - Customer Requests,1211074902370218,Run Luna on Question and Applicant State (if trace generator not available) ,Yes,,,,2025-09-10,2025-09-11,40.0,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1211142852066283,Replace Metabase balance dashboard,No,,,,NaT,2025-09-08,40.0,Needs Assignment,Completed,,No
+Security & Compliance,nan - Customer Requests,1210894371267593,"New Bug Report: Question:
+
+Let’s say we want to build visualizations for data not associated with applicant. As shared by <https://aidkit.slack.com/archives...",No,Medium,,,NaT,2025-08-14,40.0,Platform,Completed,,No
+Uncategorized,nan - Customer Requests,1211048302028204,Validated Advisory / Optional shows TTS Red Icon. ,No,Medium,,,NaT,2025-09-04,20.0,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1211058446601189,"Dashboard Styling: Collapsible Folders, Bolding and Color-Coding",No,Medium,,,2025-08-22,2025-08-14,20.0,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1211082587278794,Get to the bottom of this ESBUILD thing,No,High,,,NaT,2025-08-25,40.0,Needs Assignment,Completed,,Yes
+Uncategorized,nan - Customer Requests,1.21097E+15,Crypto (fernet) library likely needs version update,No,High,,,NaT,2025-09-08,40.0,Needs Assignment,Completed,,Yes
+Uncategorized,nan - Customer Requests,1209286016506034,Blocked Message vs Custom Text on Submit,No,Medium,,,2025-09-23,2025-09-03,40.0,Needs Assignment,Completed,,No
+Notifications & Comms,nan - Customer Requests,1211222176671646,Add Enabled Count for Notification Tab in Preview Pane,No,High,,,NaT,2025-09-11,5.0,Platform,Completed,,Yes
+Uncategorized,nan - Customer Requests,1210918598939616,Givecard -Embedded Bank Verification Details for RTP,No,High,,,NaT,2025-09-09,60.0,Needs Assignment,Completed,,Yes
+Uncategorized,nan - Customer Requests,1209286016506032,"Add ""Current Balance"" to RC Approve Page",Yes,Medium,,,NaT,2025-09-08,40.0,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1211026510134881,FSTI has an expiration issue,No,Medium,,,NaT,2025-08-14,40.0,Needs Assignment,Completed,,No
+Document Assistance,nan - Customer Requests,1210967812268213,"Warning Message Can Be Dismissed, But Space (Including TTS) Remains Blank",No,Medium,,,NaT,2025-08-14,5.0,Product,Completed,Document Assistance,No
+Uncategorized,nan - Customer Requests,1211307203537631,modify Exports to allow decrypting fields,No,Low,,,NaT,2025-09-10,40.0,Needs Assignment,Completed,,No
+Admin UI / AST,nan - Customer Requests,1211213915778199,New Bug Report: Change layout of Admin Search to better indicate which row the expanded content is related to,No,,,,NaT,2025-09-02,20.0,Product,Completed,,No
+Security & Compliance,nan - Customer Requests,1211448132074294,BRF notification error:  brf: Missing target fields for notification gc_association_notif_email. ,No,Medium,,,NaT,,,Platform,Open,,No
+Integrations,nan - Customer Requests,1211440086701773,Misconfigured email servers can lead to spoofed emails,No,Medium,,,2025-09-26,,40.0,Platform,Open,,No
+Accessibility & UX,nan - Customer Requests,1208676919054449,Ability to one-way hash messages in the Support UX,No,High,,,NaT,,60.0,Product,Open,,Yes
+Uncategorized,nan - Customer Requests,1208701968356001,Ability to hide phone recording content and text messages,Yes,,,,NaT,2024-11-20,40.0,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1208750943364791,Encrypt hidden text content in place,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1208701968356003,Ability to hide video recording content,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Security & Compliance,nan - Customer Requests,1208701968356004,"Add a page for auditing and deleting hidden texts, phone, and video recordings",Yes,,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1208701968356009,Ability to hide multiple messages at once,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211447034983836,Support Dashboard - Notes/Comms Disclaimer,No,Medium,,,2025-09-29,,5.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211443299594981,Prettier guard params,No,Low,,,2025-10-28,,,Needs Assignment,Open,,No
+Notifications & Comms,nan - Customer Requests,1.21143E+15,Warn if sending SMS in Comms that's over 320 Characters,No,Medium,,,NaT,,,Platform,Open,,No
+Admin UI / AST,Admin Status Tracking,1211423134461119,AST: Auto-update others' dashboards using WS,No,High,,,2025-09-29,,40.0,Product,Open,,Yes
+Admin UI / AST,Admin Status Tracking,1211422953405368,AST: 👥 Multiple applicants = multiple lines,No,Medium,,,2025-09-26,,5.0,Product,Open,,No
+Security & Compliance,nan - Customer Requests,1211415226640287,"Having users with internal_audit without an /audit survey breaks dashboards with a ""specified key does not exist""",No,Medium,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1211412714027002,labelText configuration option for selectType,No,Low,,,2025-10-17,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211412031296454,🏷 Italicize tags or differentiate them from the applicant STAGE. ,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Data & Reporting,nan - Customer Requests,1211412072517442,"Add ""Report Spam"" Flag to main support table",No,Low,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1211411976160374,Optimize TranscribeVoiceMessages,No,Medium,,,NaT,,40.0,Needs Assignment,Open,,No
+Admin UI / AST,Admin Status Tracking,1211411978966959,AST: Update support URL to /support from /supportrequestsv2,No,Medium,,,NaT,,20.0,Product,Open,,No
+Payments & Disbursements,Disbursements Engine,1211411830683828,QOL Request: JS formatting function in distro kinds where we script,No,Low,,,2025-10-17,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1211397633323889,Delete non-latest,No,,,,NaT,,,Needs Assignment,Open,,No
+Payments & Disbursements,nan - Customer Requests,1211398583252708,Manage Payments - Integration w/Rillet - Unit Tests,No,,,,NaT,,,Platform,Open,,No
+Payments & Disbursements,nan - Customer Requests,1211398583252706,Manage Payments - Invoices - Unit Test,Yes,,,,NaT,,,Platform,Open,,No
+Payments & Disbursements,nan - Customer Requests,1211398583252704,Manage Payments - Integration with Rillet,No,,,,NaT,,,Platform,Open,,No
+Payments & Disbursements,nan - Customer Requests,1211398583252702,Manage Payments - Invoices  ,No,,,,NaT,,,Platform,Open,,No
+Payments & Disbursements,nan - Customer Requests,1211398579681942,Manage Payments - Bulk Action - Pause or Cancel Payments,No,,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1211318432109567,getSubsurvey query,Yes,,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211038294933677,Replace all survey reads from S3,Yes,,,,NaT,,40.0,Needs Assignment,Open,,No
+Payments & Disbursements,nan - Customer Requests,1211398579681934,Manage Payments - Configure Columns???,No,,,,NaT,,,Platform,Open,,No
+Payments & Disbursements,nan - Customer Requests,1211398579681926,Manage Payments - Main Page - Unit Tests,No,,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1211398431907482,"Add ""Custom popup text on submit"" to Copy Editor",No,Medium,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211398431907473,Fillable Form (W9) kind misses Spanish translation when the form is generated,No,Medium,,,NaT,,,Needs Assignment,Open,,No
+Payments & Disbursements,Disbursements Engine,1211400980908627,"New Bug Report: @Ben Durfee qq, does this work if you configure it in distro? it's displaying correctly for me in explore but not when I configure it in ...",No,,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1211399214729691,Automatic Target Field Search to Replace Drop Down Search,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211399505734436,Copy Editor Scrolling Causes Translators to Miss Content,No,Medium,,,2025-09-26,,,Needs Assignment,Open,,No
+Payments & Disbursements,nan - Customer Requests,1211397275840163,Manage Payments - Actions - Three Dot Actions,No,,,,NaT,,,Platform,Open,,No
+Payments & Disbursements,nan - Customer Requests,1211397274660146,Manage Payments - Table Data + Default Columns,No,,,,NaT,,,Platform,Open,,No
+Payments & Disbursements,nan - Customer Requests,1211397274660144,Manage Payments - Filters,No,,,,NaT,,,Platform,Open,,No
+Payments & Disbursements,nan - Customer Requests,1211397274660142,Manage Payments- Search,No,,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1.2114E+15,Manage Reminders - New ???,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211397274660138,Manage Reminders - Existing,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211397274660134,RC Balances (Cards),No,,,,NaT,,,Needs Assignment,Open,,No
+Payments & Disbursements,nan - Customer Requests,1211397274660132,Manage Payments Navigation,No,,,,NaT,,,Platform,Open,,No
+Payments & Disbursements,Disbursements Engine,1211391913861834,Add way to close a Distro Review,Yes,Low,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1211390347900488,Contact Confirmation pathway for virtual / VoIP phone numbers,No,Medium,,,2025-10-10,,,Needs Assignment,Open,,No
+Document Assistance,nan - Customer Requests,1.20974E+15,[DA] Extend Delete Applicants Feature,No,Medium,,,NaT,,40.0,Product,Open,,No
+Uncategorized,nan - Customer Requests,1209872900836898,Wire RC,Yes,,,,NaT,2025-04-02,,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1209872900836901,"Fix delete counts for applicantinfo, fix preview counts for dynamoInfo and dynamoAccess",Yes,,,,NaT,2025-06-17,40.0,Needs Assignment,Completed,,No
+Admin UI / AST,nan - Customer Requests,1209872900836899,(High Prio) Extend Super admin capabilities to PMs - meagan and hector,Yes,,,,NaT,2025-09-17,40.0,Product,Completed,,No
+Uncategorized,nan - Customer Requests,1210833631335991,"(Low prio) Allow toggling whether certain things get deleted - everything should be by default, but ""Messages"" might want to be kept, for example. ",Yes,,,,NaT,,,Needs Assignment,Open,,No
+Integrations,Document Intake Improvements,1209872900836902,"(Low prio) Hide the technical report behind a toggle, and just show ""Success"" upon deletion. Provide a full deletion report of what category of things were deleted (Documents via S3, info was deleted from Dynamo and DB, twilio messages, etc)",Yes,,,,NaT,,,Platform,Open,,No
+Payments & Disbursements,Disbursements Engine,1211388913254478,New Bug Report: Distro review does not receive latest values,Yes,,,,NaT,,,Platform,Open,,No
+Payments & Disbursements,Disbursements Engine,1.21088E+15,New Bug Report: Hi @pe-team I'm using the Distro Review but this up arrow doesn't fold the changes as I expected. Would you help take a look? ...,Yes,Low,,,NaT,,5.0,Platform,Open,,No
+Payments & Disbursements,Disbursements Engine,1210465513918408,Simulate Notifs in Distro not working for Conditional Content,No,Medium,,,NaT,,40.0,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1210201487253536,Bug: Copy list of UIDs doesn't factor in filters,No,Medium,,,NaT,,20.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211388840681636,Partner Newsletter Q3 Mailing List,No,High,,,2025-09-26,,,Needs Assignment,Open,,Yes
+Uncategorized,nan - Customer Requests,1211385092800446,Session Authentication Cutover + DB safety,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211379497662192,Cook County Dataset Support (On Call),No,Medium,,,2025-09-29,,,Needs Assignment,Open,,No
+Infrastructure & DevOps,nan - Customer Requests,1211379480092478,Monitoring High Volume Ingestion/Notifs,No,High,,,2025-09-29,,,Platform,Open,,Yes
+Uncategorized,nan - Customer Requests,1211379413749586,Phase 1 to Phase 2 Lottery Queries ,No,Medium,,,2025-10-16,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211378652324274,Automated Testing - Manage Fields,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,Document Intake Improvements,1211378464284862,make a program documents s3 bucket that we can add to / delete from,No,Medium,,,2025-10-31,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211377009582825,Session Timeout Handling,No,,,,NaT,,,Needs Assignment,Open,,No
+Security & Compliance,nan - Customer Requests,1211309192712001,Think about: What compliance process is needed for non-admin to send PII via email? IDV? Password-encrypt PDF? etc,Yes,,,,NaT,2025-09-18,,Platform,Completed,,No
+Infrastructure & DevOps,nan - Customer Requests,1210992032755292,Prevent instance from logging out while RSS on phone/video call,No,High,,,2025-09-12,2025-09-11,20.0,Platform,Completed,,Yes
+Uncategorized,nan - Customer Requests,1211333472620335,Conditional Content for Block Further Edits functionality,No,Medium,,,2025-10-17,,,Needs Assignment,Open,,No
+Integrations,nan - Customer Requests,1211266645444247,Support Dashboard Phone / Email Column Sort & Formatting issues,No,Medium,,,2025-09-19,2025-09-16,,Platform,Completed,,No
+Integrations,nan - Customer Requests,1211308754084813,Allow attachment when we email applicants via Support,No,Medium,,,NaT,,,Platform,Open,,No
+Admin UI / AST,nan - Customer Requests,1.21131E+15,PE Create way for admin to send attachments via email - Low risk,Yes,,,,NaT,,,Product,Open,,No
+Uncategorized,nan - Customer Requests,1211306767877916,Throw Publish Warning if you have Duplicate Section Names,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211230947003153,OpenResearch Web Hook ,No,High,,,2025-10-15,,60.0,Needs Assignment,Open,,Yes
+Platform Core,nan - Customer Requests,1209791946460182,Examine SupportTask performance impact,No,,,,NaT,,40.0,Platform,Open,,No
+Platform Core,nan - Customer Requests,1209791946460178,Examine sync_cdss_data performance impact,No,,,,NaT,,40.0,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1211229104899737,ClickQuery NULL safety (Not/ValueContains),No,Low,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211227129119752,"Kind or way to wrap action buttons, allowing them to aligned horizontally",No,Low,,,2025-09-30,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1.21119E+15,Allow ITER strings in the Shift Date,No,Medium,,,2025-10-07,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211187621927937,Bar chart - String Pillars are not ordered,No,Low,,,2025-10-07,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211187601890927,Bar Chart shows 2 decimal places for the Total while Pie Chart doesn't,No,Low,,,2025-10-07,,,Needs Assignment,Open,,No
+Data & Reporting,nan - Customer Requests,1211178854755233,M2 Data Analytics,Yes,,,,NaT,2025-09-04,40.0,Platform,Completed,,No
+Uncategorized,nan - Customer Requests,1.21119E+15,,No,,,,NaT,,,Needs Assignment,Open,,No
+Security & Compliance,nan - Customer Requests,1211185388562348,AP Home - Add Audit Trail,No,,,,NaT,,,Platform,Open,,No
+Payments & Disbursements,nan - Customer Requests,1209094004164928,Streamline end-to-end payment testing from configuration to applicant payment.,Yes,,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1209094004164939,Improve USIO customer support response time and issue resolution.,No,,,,NaT,,,Needs Assignment,Open,,No
+Document Assistance,Document Intake Improvements,1209094004164894,"Document ACH failure reasons and resolutions (e.g., Receiver Restricted errors and troubleshooting).",No,,,,NaT,,,Product,Open,,No
+Payments & Disbursements,Document Intake Improvements,1.20909E+15,"Provide clear documentation for testing GiveCard / USIO payments, including expected behaviors.",Yes,,,,NaT,,,Platform,Open,,No
+Document Assistance,Document Intake Improvements,1209876745153832,Document payment flows,No,Low,,,NaT,,,Product,Open,,No
+Payments & Disbursements,Document Intake Improvements,1209094004164896,Create step-by-step documentation for USIO card swaps and payment method changes.,Yes,,,,NaT,,,Platform,Open,,No
+Payments & Disbursements,Document Intake Improvements,1209094004164888,"Create documentation for new payment features (e.g., Auto Retry) to ensure teams understand functionality.",Yes,,,,NaT,,,Platform,Open,,No
+Document Assistance,Document Intake Improvements,1209938627323056,Document payment fields/configurations and related behavior,No,,,,NaT,,,Product,Open,,No
+Document Assistance,Document Intake Improvements,1209094004164886,"Document best practices for payment providers (max loads, fraud resolution, provider-specific support).",No,,,,NaT,,,Product,Open,,No
+Uncategorized,nan - Customer Requests,1211185388562344,AP Home - Data Permissions,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,Document Intake Improvements,1211185388562338,AP Home - Quick Links – View Program Documentation,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211185388562328,AP Home - Source Citation,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211185388562322,"??? AP Home - ""Approved Sources"" - Program FAQ",No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211185388562326,AP Home - Program Query Assistance – Aggregate Application Data,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211185388562332,AP Home - Program Query – Response Rating Capture,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211185388562318,"??? AP Home - ""Approved Sources"" - RoboController",No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211185388562324,"??? AP Home - ""Approved Sources"" - Program Policies (Settings) ",No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1.21119E+15,"??? AP Home - ""Approved Sources"" - Survey Config",No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211185388562334,AP Home - Quick Links – Program Contacts,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211185388562316,AP Home - Program Query Assistance,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211185388562314,AP Home - Dynamic “What’s New Today” Section,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1.21119E+15,AP Home - Landing Page Layout Skeleton,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,Document Intake Improvements,1.21118E+15,Program-Specific Documentation (Gated Content in Gitbook),Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1.21118E+15,Setting _lang by itself causes RS to freak out in cgf?,No,Medium,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,Document Intake Improvements,1.21118E+15,Documentation for GitBook,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211176337508344,Add Dashboard Component enhancements + Refine Dashboard Builder,No,,,,2025-10-03,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211176120667006,5xx Page,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1.21118E+15,404 Page ,No,,,,NaT,,,Needs Assignment,Open,,No
+Payments & Disbursements,nan - Customer Requests,1.21118E+15,Disabled Payments don't exist in info_defs,No,Low,,,NaT,,,Platform,Open,,No
+Payments & Disbursements,Disbursements Engine,1211167034107552,Distro: remove orange save outline on publish,No,,,,NaT,2025-09-09,40.0,Platform,Completed,,No
+Uncategorized,nan - Customer Requests,1211156127851094,Run RoboScreener before sending notifications,No,Medium,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1.21065E+15,Bulk Import: Validation of Import Fields,No,Low,,,2025-10-07,,60.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211001210206058,Allow custom validation of any field (possibly using Validated fields),Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211085102547907,Create AKEP,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Security & Compliance,nan - Customer Requests,1211153704660779,Add user audit logging for report actions,No,,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1211153569975355,Certain fields should not be editable by certain users,No,Medium,,,NaT,,60.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1211142852066279,Make RC inputs all dollars,No,Medium,,,NaT,2025-09-08,40.0,Needs Assignment,Completed,,No
+Admin UI / AST,nan - Customer Requests,1211141951069525,Mark support case as resolved from Applicant Page,No,Medium,,,NaT,,20.0,Product,Open,,No
+Uncategorized,nan - Customer Requests,1210753064692752,Create Trace Generator,Yes,,,,NaT,,40.0,Needs Assignment,Open,,No
+Infrastructure & DevOps,nan - Customer Requests,1211115028044943,PDF Admins Want To See Different Org Views Without Logging Out (If They Are Users for Multiple Orgs - Want to Toggle),No,,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1211103649511378,Mini-Demos + Images + Reviewer Queues,No,,,,2025-08-20,2025-08-20,,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1211103094266053,Vertical alignment on role display in HH calc ,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Data & Reporting,nan - Customer Requests,1210441875396695,New Bug Report: Issue where RS / DetectFaces wipes the _face if frontend tells it to.,No,Medium,,,NaT,,40.0,Platform,Open,,No
+Admin UI / AST,nan - Customer Requests,1.21044E+15,Add FullStory to the Admin Functions,No,Low,,,NaT,,,Product,Open,Review Flow,No
+Payments & Disbursements,Disbursements Engine,1.21106E+15,Distro Editor for Custom TTS Recording,No,Medium,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1208726359970641,RoboNav <-> Liveness,No,Medium,,,NaT,,60.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1.20938E+15,Phase 1 - simple bypass w/ mock data,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Platform Core,nan - Customer Requests,1210988196944867,compute_or_modify_identities API Taking Too Long in PDF,No,Medium,,,NaT,,40.0,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1210884441591243,Re-design notifySupportCaseActivity for alerts on unhandled support cases,No,Medium,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1.20804E+15,Liveness: Add camera enabling instructions,No,Medium,,,NaT,2025-08-14,20.0,Needs Assignment,Completed,,No
+Data & Reporting,nan - Customer Requests,1211048128100359,"[Duplicate] New Bug Report: This is an advisory message, I think it should be a Gray icon instead of red? It’s optional. If so I can put in a PE ticket",No,,,,NaT,2025-08-14,,Platform,Completed,,No
+Uncategorized,nan - Customer Requests,1211028255172206,Make a toast warning in Copy_Editor when users change the notif copy,No,Low,,,2025-10-07,,,Needs Assignment,Open,,No
+Payments & Disbursements,Disbursements Engine,1209295461336588,Enable field to disable TTS for selected languages in Distro Config,No,Medium,,,NaT,,40.0,Platform,Open,,No
+Identity & Fraud,Identity & Fraud Controls,1208113816633475,Continue Labeling Data and fleshing out an Instruction Guide for Reviewers re: fraud,No,Low,,,NaT,,40.0,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1209501047908825,Debug issues with pause/resume/restart on speech reader,No,,,,2025-10-07,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1209787559272748,Separate Cron by Program,No,Medium,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210037647126415,"AKEP review by team - Team walks through the design to make sure it ""looks good""",Yes,,,,NaT,2025-05-12,40.0,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1210037647126413,Code - Coded approach w/ detail showing how many sockets are approx used,Yes,,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210037647126414,Code Review by Team - Team walks through the changes to make sure they make sense,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Document Assistance,nan - Customer Requests,1209826395217921,[DA] Data Privacy Manager can delete applicants at their request from a central place,No,Medium,,,NaT,,60.0,Product,Open,,No
+Uncategorized,nan - Customer Requests,1209804840761326,Move frontend testing-library dependencies to devDep,Yes,,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210998586730119,Allow Templated Blocks to have their own pages,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210931172045507,Add AK virtual background to video calls ,No,,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1209342075959004,Screenshotting Apps Automation,No,Low,,,NaT,,40.0,Needs Assignment,Open,,No
+Payments & Disbursements,Disbursements Engine,1205797065831602,Distro query with lookups not translating to SQL correctly,No,Medium,,,NaT,,20.0,Platform,Open,,No
+Integrations,nan - Customer Requests,1208938407726861,Add Slack Webhook Creation to ProgramConfig and/or createNewProgram,No,Medium,,,NaT,,40.0,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1209360160506781,Dev env setup has multiple issues,No,Medium,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1208580986423992,Validated Kind unable to pull certain field from the info object,No,Medium,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1207326908011727,Prevent Emails from being Marked as Spam,No,Low,,,NaT,,40.0,Needs Assignment,Open,,No
+Document Assistance,Document Intake Improvements,1209336220797434,"Add Unsubscribe button to some emails, and document why",Yes,,,,NaT,,,Product,Open,,No
+Document Assistance,Document Intake Improvements,1209336220797441,"Add language to bottom of Verification codes ""You received this because XYZ"" and document why ",Yes,,,,NaT,,,Product,Open,,No
+Uncategorized,nan - Customer Requests,1209336220797439,Allow people to unsubscribe / resubscribe,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,Document Intake Improvements,1209336220797436,Write Documentation on Emails (add to Covered Areas),Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,Identity & Fraud Controls,1210254779994636,Avoid being put on microsoft's quarantine list,No,Medium,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210805299662283,Notify Screener on Reassign,No,Low,,,NaT,,40.0,Needs Assignment,Open,,No
+Security & Compliance,nan - Customer Requests,1210978732604293,Delete PII,No,High,,,NaT,2025-08-06,,Platform,Completed,,Yes
+Uncategorized,nan - Customer Requests,1206699622220633,Specifying Sender Broke Applicant Support Tool,No,,,,NaT,2025-08-05,,Needs Assignment,Completed,,No
+Integrations,nan - Customer Requests,1.20568E+15,QuickJS integration,No,,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1206797399419195,Dashboard Filters need to work for CustomQueries,No,,,,NaT,,40.0,Needs Assignment,Open,,No
+Platform Core,nan - Customer Requests,1208643494130694,Refactor bar chart number formatting options,No,Low,,,NaT,,40.0,Platform,Open,,No
+Payments & Disbursements,nan - Customer Requests,1207640914297982,Only issue payments on business days,No,Medium,,,NaT,,40.0,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1208504987878847,Add AMH Safeguard: Don't auto respond if there is a recent message from a User,No,Medium,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1208504816569604,Add Min & Max Options to NumberWithUnit kind,No,Medium,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1208712371322611,Investigate difference between Givecard and AidKit givecard-spending for October,No,,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1209757255735281,figure out why info_defs is causing so much CPU burden,No,Medium,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1209161632987663,Enable Tagging someone in Notes,No,Low,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210702206369946,DR: snapshot tables might be different,No,Medium,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1.20994E+15,save comms to db even when they fail to send,No,Medium,,,NaT,,40.0,Needs Assignment,Open,,No
+Document Assistance,Document Intake Improvements,1209609835296278,"Add ""Upload Lookup"" for uploading to a Lookup table to program admin",No,Medium,,,NaT,,40.0,Product,Open,,No
+Infrastructure & DevOps,nan - Customer Requests,1209744115367855,Clean Up .yml jobs to use one deploy/build/test/typechecking script so we can update Deps in one place,Yes,Medium,,,NaT,,40.0,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1.20932E+15,Dev Env Setup: migrations fail,No,,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1209324907080892,Dev Env Setup: NoSuchKey,No,,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1209324907080894,Dev Env Setup: Cannot find module '@aidkitorg/component-library`,No,,,,NaT,,20.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1208959576097975,User role - scope to languages,No,Low,,,NaT,,20.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1.20914E+15,Target Field Dictionary,No,Medium,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1209143775803788,Target Fields Linkage,Yes,Medium,,,NaT,2025-08-04,60.0,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1.20866E+15,Offsite - create way to search for target fields on the right pane,Yes,Medium,,,NaT,2025-05-01,40.0,Needs Assignment,Completed,,No
+Payments & Disbursements,Disbursements Engine,1209788559102869,Distro enabled toast message needs a fallback for type and name,No,Low,,,NaT,,40.0,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1209744189442665,Browser compatibility issues with video call UI,No,,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1209539866726352,TypeError: Failed to execute 'unobserve' on 'ResizeObserver': parameter 1 is not of type 'Element'.,No,Low,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1209504413354017,TypeError: Failed to execute 'unobserve' on 'ResizeObserver': parameter 1 is not of type 'Element'.,No,Low,,,NaT,,40.0,Needs Assignment,Open,,No
+Payments & Disbursements,nan - Customer Requests,1209469403919722,Payment ledger applicantinfo lookup tries to join against empty string when no ledger is specified,No,Low,,,NaT,,40.0,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1209284322276303,null check /navigation response,No,Low,,,NaT,,5.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1209184088888612,chime audio device error <unknown>,No,,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1209119594511523,Sections with identical names will collide on screener view,No,,,,NaT,,40.0,Needs Assignment,Open,,No
+Eligibility & Workflow,nan - Customer Requests,1208992808958012,Extend Test Eligibility to ValueExprs ,Yes,Medium,,,NaT,,40.0,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1208941118792123,Add optout fields to the Comms tab,No,Low,,,NaT,,20.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1208898378990367,ResourceNotFoundException: Requested resource not found: Table: surviveandthrive.cache not found,No,,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1.2089E+15,Implement dynamo throttling when ThrottlingException is hit,No,Low,,,NaT,,40.0,Needs Assignment,Open,,No
+Infrastructure & DevOps,nan - Customer Requests,1210969301940521,Create Emergency Deploy Process,No,Medium,,,NaT,,20.0,Platform,Open,,No
+General,nan - Customer Requests,1210967812268227,Change the Stoplight Colored TTS Icons,No,Low,,,NaT,,40.0,Needs Assignment,Open,General,No
+General,nan - Customer Requests,1210967812268221,Make the Card Disclosures New Tab Icon in the Same Line as the Text,No,Low,,,NaT,,20.0,Needs Assignment,Open,General,No
+Uncategorized,nan - Customer Requests,1210964856806207,Scheduled approvals followup task,No,,,,NaT,2025-09-02,40.0,Needs Assignment,Completed,,No
+"Luna, Voice",nan - Customer Requests,1210953514517367,[Error Handling] Luna voice chat breaks and duplicates,No,,,,NaT,,,Needs Assignment,Open,"Luna, Voice",No
+Platform Core,nan - Customer Requests,1208992275454435,Need API for Case Data,No,Low,,,NaT,,40.0,Platform,Open,,No
+Platform Core,nan - Customer Requests,1209001724465579,Ask Questions to create scope for this API / ticket,Yes,,,,NaT,2025-03-10,,Platform,Completed,,No
+Uncategorized,nan - Customer Requests,1.20963E+15,Write SOW/Proposal for GD review,Yes,,,,NaT,2025-08-05,,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1210950443501972,Add pagination to RC actions list,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210928862094502,Reviewer Landing Page - Create Reviewer Landing Page,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210928861940036,Reviewer Landing Page - Card Counts ,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210928861940034,Reviewer Landing Page - Quick Links,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210928861940038,Reviewer Landing Page - Add Quick Links & Policies to Settings,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210928861940032,Reviewer Landing Page - Policies ,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1.21093E+15,"Reviewer Landing Page - ""Protected"" Search ",No,,,,NaT,,,Needs Assignment,Open,,No
+Data & Reporting,nan - Customer Requests,1210932319467616,Manage Applicants - Export All Applicants,No,,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1210932319467614,Manage Applicants - Add New Applicant,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210932316999679,Dashboard Templates & Manage Applicants,No,,,,2025-07-30,2025-07-30,,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1210920607834941,,No,,,,NaT,,,Needs Assignment,Open,,No
+Identity & Fraud,nan - Customer Requests,1210709275980889,[Retest Needed] - Applicant Flow - AI signals not present on Identity Page,No,,,,NaT,,,Platform,Open,Review Flow,No
+Uncategorized,nan - Customer Requests,1210918057912688,Dashboard Builder - Templates,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210911473547386,Nohemi + Jaimie on First Pass at Reviewer Landing Page,No,,,,2025-07-28,2025-07-28,,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1210907698256922,Manage Applicants - Display Organization and Recipients in a Unified View,No,,,,NaT,,,Needs Assignment,Open,,No
+Payments & Disbursements,Disbursements Engine,1209085242640117,Consolidate distro search templated block results,No,,,,NaT,,40.0,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1208452009822338,Lazy Load Certain ProgramAdmin Pages - Like TransactionDownload,No,Medium,,,NaT,,20.0,Needs Assignment,Open,,No
+Security & Compliance,nan - Customer Requests,1210881403043435,Ash - Audit Logs & RBAC,No,,,,2025-08-04,2025-08-04,,Platform,Completed,,No
+Uncategorized,nan - Customer Requests,1210881403043432,Supporting PDF & Reviewer Flow,No,,,,2025-07-23,2025-07-24,,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1209120757015049,Automate and improve card reissuing process (lost or undelivered cards),Yes,Low,,,NaT,,,Needs Assignment,Open,,No
+Eval,nan - Customer Requests,1210874398669015,Add Review to Prompt Management UI,Yes,Medium,,,NaT,,40.0,Needs Assignment,Open,Eval,No
+Uncategorized,nan - Customer Requests,1.21087E+15,,No,,,,NaT,2025-07-23,,Needs Assignment,Completed,,No
+Data & Reporting,nan - Customer Requests,1210870942762767,"New Bug Report: Good morning @pe-team, I have been struggling with a filter condition all morning, seems to be working as expected on the expl...",No,,,,NaT,,,Platform,Open,,No
+Luna,nan - Customer Requests,1210862799312582,Update Prompt - External References,No,,,,NaT,,,Needs Assignment,Open,Luna,No
+Luna,nan - Customer Requests,1.21086E+15,Add Guardrailing for Text Coach,No,,,,NaT,,40.0,Needs Assignment,Open,Luna,No
+Data & Reporting,nan - Customer Requests,1210862937308664,New Bug Report: Having some kind of progress/feedback on the import page would be really nice :thinking_face:,No,Low,,,NaT,,20.0,Platform,Open,,No
+Payments & Disbursements,Disbursements Engine,1210861853485179,New Bug Report: Hi @pe-team this is a quality of life request. Could we make the language list in the same style with other Distro target fiel...,No,Low,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1210860539287494,Amy- Manage Applicants Review ,Yes,,,,2025-07-17,2025-07-22,,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1210824757563746,The Review Flow  & SQL (Mostly),Yes,,,,2025-07-16,2025-07-17,,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1210816538365898,"""Load to first incomplete section"" bug",No,Medium,,,NaT,,,Needs Assignment,Open,,No
+Document Assistance,Document Intake Improvements,1210816269295288,[Prompt Issue] Luna Incorrectly Flags In-Range Document as Too Old on First Upload; Correctly Accepts on Reupload,No,,,,NaT,,40.0,Product,Open,Document Assistance,No
+Identity & Fraud,nan - Customer Requests,1.21082E+15,"Bug - On Mobile and in ES, Taking A Picture With Phone in Identity Stage Kicks Applicant Out",No,,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1.21081E+15,Bulk Reassign Screener,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210791085093758,,No,,,,NaT,2025-07-14,,Needs Assignment,Completed,,No
+Document Assistance,Document Intake Improvements,1210776356581414,"QA - When I Upload The Same Document Twice, I Get A Toast Message ",Yes,,,,NaT,2025-08-01,,Product,Completed,General,No
+Uncategorized,nan - Customer Requests,1210766416737165,"Remove `===` delimiter from meeting invite message, which causes it to render incorrectly as markdown",No,,,,NaT,,20.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210755685918075,ip_barrage flag enhancement,No,Medium,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210747169346298,Create Unified Dashboard in stats.aidkit.org,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210745720788609,Dashboard Builder - Integrate AI into Wizard,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210745720788599,Dashboard Builder - Integrate Reports into Wizard,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,Identity & Fraud Controls,1210745720788593,Grid & Filters for Dashboard Components/Widgets,No,,,,2025-08-25,2025-08-22,,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1210745720788591,Launch All Dashboard Builder Components,No,,,,2025-08-04,2025-08-06,,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1210745718956281,Launch all actions for Dashboards,No,,,,2025-08-08,2025-08-04,,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1.21069E+15,UnhandledRejection: Non-Error promise rejection captured with value: undefined,No,Medium,,,NaT,,20.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1.21075E+15,"Automated Testing - Refresh Data - Reports, Dashboards, Manage Applicants",Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210745259014158,Automated Testing - Create/Edit/Delete User,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210745160286487,Automated Testing - Import Applicants ,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210745259014154,Automated Testing - Create/Edit/Delete Dashboard,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Data & Reporting,nan - Customer Requests,1210745259014152,Automated Testing - Create/Edit/Delete Report,Yes,,,,NaT,,,Platform,Open,,No
+Data & Reporting,nan - Customer Requests,1210745160286485,Automated Testing - Export Reports  ,Yes,,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1210745160286483,Automated Testing - Login,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Luna,nan - Customer Requests,1210733917996046,"QA - When I Give Luna Feedback, Get Toast Error Message",Yes,,,,NaT,2025-08-07,,Needs Assignment,Completed,Luna,No
+Document Assistance,nan - Customer Requests,1210548030906031,At-Scale Testing for Attachment Feedback in AI Doc Review Flow (AI Doc Review),Yes,,,,2025-07-25,2025-08-06,40.0,Product,Completed,"Document Assistance, Review Flow",No
+Uncategorized,nan - Customer Requests,1210733917996024,Kate & Devin on RBAC ,No,,,,2025-06-30,2025-07-07,,Needs Assignment,Completed,,No
+Admin UI / AST,nan - Customer Requests,1210733917996018,"Add ""Copy SQL"" and ""Copy UUIDs"" Actions to All Admin Panel Search Results",No,,,,NaT,,,Product,Open,,No
+Uncategorized,nan - Customer Requests,1210731959041724,Feedback - Support for Sub-Ledgers,No,,,,NaT,,,Needs Assignment,Open,,No
+Identity & Fraud,Identity & Fraud Controls,1210691939647554,Create way to connect ID to specific targetfield in Field Mismatches,No,,,,NaT,2025-07-10,,Platform,Completed,,No
+Uncategorized,nan - Customer Requests,1210688309978383,TypeError: Cannot set properties of undefined (setting 'currentlyEnabled'),No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210680837003178,Ash - Manage Applications Review,Yes,,,,2025-06-30,2025-06-30,,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1.21068E+15,Tiffany - Manage Applicants Review,Yes,,,,2025-06-30,2025-06-30,,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1210678291604222,TypeError: undefined is not an object (evaluating 'e.results'),No,,,,NaT,,,Needs Assignment,Open,,No
+Accessibility & UX,nan - Customer Requests,1210635235267089,Start New Review button from current commit UX issue,Yes,Low,,,NaT,2025-07-02,20.0,Product,Completed,,No
+Uncategorized,nan - Customer Requests,1210677646403642,QOL: Can we add a way to split a string via ClickQuery,No,Low,,,NaT,,20.0,Needs Assignment,Open,,No
+Payments & Disbursements,nan - Customer Requests,1.21066E+15,Feedback - Payments - Want To See Payments Initiated on A Line Chart,No,,,,NaT,,,Platform,Open,,No
+Payments & Disbursements,nan - Customer Requests,1210663135351378,Feedback - Payments - Less Useful Fields,No,,,,NaT,,,Platform,Open,,No
+Payments & Disbursements,nan - Customer Requests,1210663135351373,"Feedback - Update ""Payment Details"" Column Header to TBD",No,,,,NaT,2025-06-30,40.0,Platform,Completed,,No
+Payments & Disbursements,nan - Customer Requests,1210664530091864,Feedback - Add Payment Amount to Payment Details Page ,No,,,,NaT,2025-06-30,40.0,Platform,Completed,,No
+Uncategorized,nan - Customer Requests,1210331340837702,USIO card status,Yes,Low,,,NaT,2025-06-10,40.0,Needs Assignment,Completed,,No
+Review Flow,nan - Customer Requests,1210663141631068,Add Face Recognition to AI Signals in The Drawer,No,,,,NaT,,,Needs Assignment,Open,Review Flow,No
+Uncategorized,nan - Customer Requests,1210654626229401,Session 6 - RBAC - 6/26/2025,No,,,,2025-06-26,2025-06-26,,Needs Assignment,Completed,,No
+General,nan - Customer Requests,1210632652538386,[Retest Needed] Error page when claiming applicant from the reviewer queue,No,,,,NaT,,,Needs Assignment,Open,General,No
+Document Assistance,Document Intake Improvements,1210586200257176,QA - Applicant Flow - AI signals / warnings only show for last document uploaded,Yes,,,,2025-07-25,2025-07-14,,Product,Completed,Document Assistance,No
+Document Assistance,Document Intake Improvements,1210643497204903,drag and drop upload docs,Yes,,,,2025-07-11,2025-06-30,40.0,Product,Completed,,No
+Uncategorized,nan - Customer Requests,1210651461874376,To Complete for Demo Day,No,,,,NaT,2025-08-14,,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1209866928548959,Add way to manage organization info,No,Medium,,,NaT,2025-07-23,40.0,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1209866928548962,Add single org view/edit page,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1209953599744335,Make a basic view / edit org page,Yes,,,,NaT,2025-04-22,,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1209953599744334,Account for uneditable metadata properties,Yes,,,,NaT,2025-05-12,,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1.20995E+15,"Save more metadata info - created, last_edited, last_edited_by",Yes,,,,NaT,2025-05-20,,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1209953599744336,Allow specifying suggested keys in program config with dropdown,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1209953599744339,Add the ability to delete / archive an org from the org page,Yes,,,,NaT,2025-05-20,,Needs Assignment,Completed,,No
+Admin UI / AST,nan - Customer Requests,1209953599744338,Make org page viewable for an 'org admin' tag belonging to the same org,Yes,,,,NaT,,,Product,Open,,No
+Uncategorized,nan - Customer Requests,1209953599744337,Add a role selector,Yes,,,,NaT,2025-05-20,,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1.2099E+15,Add an Add Organization button,Yes,,,,NaT,2025-05-29,40.0,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1209900056271809,[Duplicate] Add functionality to custom query dashboards,Yes,,,,NaT,2025-04-07,,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1210620293609847,Breanna Outline what this looks like,Yes,,,,2025-10-07,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1.2105E+15,DR: Allow clicking through from a notif on DR page to its target field value change page,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210642734211169,Notifications: Add ability to collapse languages in preview pane,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210639138900259,handle emails sent to multiple ppl,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210630471588516,"[Duplicate] Set up a redirect to sub-survey / page by table, in addition to by dashboard",Yes,,,,NaT,2025-06-26,,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1210628573724357,General - Convert PieChart into a component-library component,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210631000378323,"DR: distinguish between changed and affected, count TF as affected",No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210345642087044,PreviewPanel: Fix search in Notifs preview pane,No,Medium,,,NaT,,20.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1208733507778337,"Add ""I'm unable to proceed"" to Session Final Page and Pending Application View",Yes,Low,,,NaT,,40.0,Needs Assignment,Open,,No
+Document Assistance,nan - Customer Requests,1209559428645115,Rework / Write Liveness Design Doc [nice to have],Yes,Low,,,NaT,,40.0,Product,Open,,No
+Document Assistance,Document Intake Improvements,1210155325094377,[PDF] Plan/Proposal for submissions bulk upload,Yes,Medium,,,2025-10-07,,40.0,Product,Open,,No
+Uncategorized,nan - Customer Requests,1208573989664343,Liveness: Download a model in bite size chunks to the users phone. ,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1208672737801016,[Duplicate] Add Passport Detection via configured field,No,Low,,,NaT,2025-06-17,40.0,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1.21058E+15,robonav-img created every time a change made to AK?,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,AidKit (Internal R&D) - Customer Requests,1209705723616087,Compile List of Test Queries for DB Migration,Yes,Low,AidKit (Internal R&D),,NaT,,60.0,Needs Assignment,Open,,No
+Payments & Disbursements,Disbursements Engine,1210545308151092,"Warn the Distro if no_cron, archived, or pause_payments is true",No,Medium,,,NaT,,20.0,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1210447283115929,PDF Screener Comms,No,Medium,,,2025-06-04,2025-06-11,40.0,Needs Assignment,Completed,,No
+Integrations,nan - Customer Requests,1210447283115936,Fix requiring an applicant email when Recipient = Screener is selected on a notif,Yes,,,,NaT,2025-06-03,40.0,Platform,Completed,,No
+Integrations,nan - Customer Requests,1210447283115937,Allow user.email and user.name from RS,Yes,,,,NaT,2025-06-03,40.0,Platform,Completed,,No
+Uncategorized,nan - Customer Requests,1210515783115867,PDF Issues,No,High,,,2025-06-11,2025-06-11,20.0,Needs Assignment,Completed,,Yes
+Uncategorized,nan - Customer Requests,1210537641859474,Integrate AI into the Tags,No,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210534917586948,DR: Link to reviews from Version History,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210536696915597,Disabling Active Chats Should Be Graceful,No,Low,,,NaT,,20.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210447283115938,Allow setting alternate contact as a default for the Comms Tab,No,Medium,,,NaT,,40.0,Needs Assignment,Open,,No
+Security & Compliance,nan - Customer Requests,1210501678790016,Redact PII for USBank,No,Medium,,,NaT,,20.0,Platform,Open,,No
+Payments & Disbursements,nan - Customer Requests,1210513994171767,New Bug Report: Allow apps with single word `legal_name` to get passed the bad_usio_mail_name error on payments,No,Low,,,NaT,,40.0,Platform,Open,,No
+Document Assistance,nan - Customer Requests,1209826395217934,[DA] Create function to allow partial anonymization of fields,No,Medium,,,NaT,,40.0,Product,Open,,No
+Uncategorized,nan - Customer Requests,1210495065305052,Allow bulk import of students,Yes,Low,,,2025-10-07,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210495457691031,Smarty look up on bulk imported,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Notifications & Comms,nan - Customer Requests,1210495457691037,CSV template for orgs to use,Yes,,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1210495457691043,Bulk Import page in dashboards,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1.2105E+15,Define requirements for this dash,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210495457519143,Testing,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Document Assistance,Document Intake Improvements,1210495457519149,Document upload table,Yes,,,,NaT,,,Product,Open,,No
+Document Assistance,Document Intake Improvements,1210495457519155,Document upload form,Yes,,,,NaT,,,Product,Open,,No
+Uncategorized,nan - Customer Requests,1.2105E+15,Allow bulk import for submissions,Yes,Low,,,2025-10-07,,,Needs Assignment,Open,,No
+Document Assistance,Document Intake Improvements,1210495370875917,Document plan for bulk import of submissions,Yes,,,,NaT,,,Product,Open,,No
+Eligibility & Workflow,nan - Customer Requests,1210495370875923,Outline workflow for bulk import of submissions,Yes,,,,NaT,,,Platform,Open,,No
+Document Assistance,Document Intake Improvements,1210495370875929,Convert submission forms to CSVs to be shared with orgs for bulk upload,Yes,,,,NaT,,,Product,Open,,No
+Uncategorized,nan - Customer Requests,1210495370875935,Create bulk import section for each submission type,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Document Assistance,Document Intake Improvements,1210495370755086,Create document upload forms,Yes,,,,NaT,,,Product,Open,,No
+Uncategorized,nan - Customer Requests,1210455779699032,Return a useful error to the frontend for 413 (timeout) for /explore (and elsewhere?),No,Low,,,NaT,,20.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210476498874702,Validate Other field is Complete,No,Medium,,,NaT,,20.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210455758307888,Copy Editor Track Changes,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Data & Reporting,nan - Customer Requests,1210453821063537,"New Bug Report: Create something to indicate ""File is too large"" to the applicant.",No,Low,,,NaT,2025-07-07,40.0,Platform,Completed,,No
+Uncategorized,nan - Customer Requests,1.21045E+15,Ensure Parity between Collab Changes toBePublished and <-> Publish,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Security & Compliance,nan - Customer Requests,1210416434854693,[DA] Create transform for certain fields to substitute PII with something,No,Medium,,,NaT,,40.0,Platform,Open,,No
+Admin UI / AST,AidKit (Internal R&D) - Customer Requests,1.21025E+15,Add dev as admin to all programs for easy debug access,No,Medium,AidKit (Internal R&D),,NaT,,20.0,Product,Open,,No
+Integrations,nan - Customer Requests,1210733127765941,Update how we handle Twilio API calls,No,Low,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1208168981845584,Only show Whatsapp banner when WhatsApp has been selected from the dropdown as the desired contact. ,Yes,Low,,,NaT,,20.0,Needs Assignment,Open,,No
+Infrastructure & DevOps,nan - Customer Requests,1210662969910831,Custom Configuration for Save and Log-out Pop-up,No,,,,2025-10-07,,,Platform,Open,,No
+Payments & Disbursements,nan - Customer Requests,1209094004164892,"Clarify required variables for payment configurations (e.g., when is phone_number needed for USIO?).",No,Low,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1209094004164937,"Fix USIO virtual card activation and access issues (e.g., link sending failures, participant activation problems).",Yes,Low,,,NaT,,,Needs Assignment,Open,,No
+Payments & Disbursements,nan - Customer Requests,1209094004164934,[Duplicate] Automate scheduled payments to reduce reliance on manual approvals and minimize human error.,No,Low,,,NaT,2025-05-30,,Platform,Completed,,No
+Payments & Disbursements,nan - Customer Requests,1209094004164932,Make it easier to configure notifications for payment statuses and failures.,Yes,Low,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1.20909E+15,Fix inconsistencies where 'Enabled' status does not always reflect an active state.,No,Low,,,NaT,2025-08-29,,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1209094004164926,Automate Auto Retry setup to reduce manual configuration effort.,Yes,Low,,,NaT,,,Needs Assignment,Open,,No
+Payments & Disbursements,nan - Customer Requests,1208729121184318,"Implement Something on a Per-Applicant basis (on ApplicantPage) that shows their current payment eligibilty, and why they are not eligible",No,Medium,,,NaT,2025-05-30,40.0,Platform,Completed,,No
+Accessibility & UX,nan - Customer Requests,1.20909E+15,Improve accuracy and accessibility of financial dashboards to prevent errors and enhance partner trust.,No,Low,,,NaT,,,Product,Open,,No
+Uncategorized,nan - Customer Requests,1209094004164904,Enable accounting team to invoice independently with a centralized source of truth for invoicing schedules and amounts.,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1.20909E+15,Automate invoice status tracking and enable one-click invoice generation by time period to prevent duplicates and improve reporting.,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Payments & Disbursements,nan - Customer Requests,1209094004164945,Ensure contract payment numbers are clear and consistent across agreements,No,Low,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1209094004164902,"Ensure financial reporting, accounting needs, and invoicing processes are clearly defined before program launch.",No,Low,,,NaT,,,Needs Assignment,Open,,No
+Payments & Disbursements,nan - Customer Requests,1209094004164915,Enable real-time payment monitoring across programs with easy access to payment data in dashboards.,No,Low,,,NaT,,,Platform,Open,,No
+Payments & Disbursements,nan - Customer Requests,1209094004164919,Provide clear visibility into payment failures and next steps for clients.,Yes,Low,,,NaT,,,Platform,Open,,No
+Payments & Disbursements,nan - Customer Requests,1209094004164917,Improve anomaly detection and alerts so internal teams catch payment issues before partners do.,Yes,Low,,,NaT,,,Platform,Open,,No
+Payments & Disbursements,nan - Customer Requests,1208923411969417,Payment Alert,Yes,Low,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1210104774059471,Different time zones in time response delay feature,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210201939661872,Easier way to send sub surveys in app.,No,Medium,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210201417283121,Support Stats Dashboard (AE) - support stats ,No,Low,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210103375545654,Ability to add attachments to comms ,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Security & Compliance,nan - Customer Requests,1210354423165275,AWS Config + Security Hub enabled,No,Low,,,NaT,,,Platform,Open,,No
+Data & Reporting,nan - Customer Requests,1210330406359688,Enable AEs to create downloadable attachment export for program end,No,Medium,,,NaT,,40.0,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1210104774059463,Show applicant's name in support dashboard,No,Medium,,,2025-05-23,2025-05-22,40.0,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1210319030012526,,No,Low,,,NaT,2025-05-19,,Needs Assignment,Completed,,No
+Uncategorized,AidKit (Internal R&D) - Customer Requests,1210278023597752,"NotifConfig: Add a ‘start/stop datetime’ to the notif top level, so that logic does not need to be added to the Notif SQL itself",No,Low,AidKit (Internal R&D),,NaT,,20.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1210277935083001,Surface 403 Auth Issues and Handle Them in the Frontend,No,Medium,,,NaT,,40.0,Needs Assignment,Open,,No
+Accessibility & UX,AidKit (Internal R&D) - Customer Requests,1210252907533895,Fix UX of select questions w/ 20 options or more,No,Medium,AidKit (Internal R&D),,NaT,,40.0,Product,Open,,No
+Uncategorized,nan - Customer Requests,1210228218418987,Freeze progress bar on subsurveys when on desktop,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1209979259060648,Word Limits on Text Entry,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1209864703142772,Prettify the Liveness First/Main Page,No,Low,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1209864805026892,,Yes,,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1209845591438816,Making some computed fields available prior to contact confirmation.,No,Medium,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1209664191665766,Programable timed subsurvey access,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1209664191665764,Configuring Guard_params per subsurvey,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1209400690997461,HH Calculator additional info optional option ,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Payments & Disbursements,Disbursements Engine,1209029045122027,Lottery System built into distro,No,Low,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1.20898E+15,Create bulk download feature,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1208975561885515,"Allow customizable ""buttons""",Yes,Medium,,,2025-02-03,2025-02-03,,Needs Assignment,Completed,,No
+Uncategorized,nan - Customer Requests,1208663038941338,Simplify Date Matching,No,Low,,,NaT,,40.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1208889218830109,Liveness Error on RxKidsTest ,No,Medium,,,2024-12-16,2024-12-06,,Needs Assignment,Completed,,No
+Payments & Disbursements,Disbursements Engine,1208852686486036,InlineSignature in Distro preview pane can cause page to hang,No,Low,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1208748644758295,"[Duplicate] Allow Lock, Freeze or Close GiveCard within AK",No,Medium,,,NaT,2025-05-16,,Needs Assignment,Completed,,No
+Security & Compliance,nan - Customer Requests,1208748644758292,Detect card re-associations and update card_id,No,Low,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1208748643808047,Allow ordering faster speed shipping for GiveCard within AK,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1.20845E+15,Derived fields from Give Card Mailing Order Details,No,Low,,,NaT,,20.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1208413767689878,Enable using LastModifiedDate in Computed Fields,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1.2084E+15,Ability to schedule sending subsurveys,No,Low,,,NaT,,20.0,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1208381972796772,[Duplicate] Allow applicants to revisit application/enrollment in read-only mode,No,Medium,,,NaT,2025-05-16,40.0,Needs Assignment,Completed,,No
+Payments & Disbursements,Disbursements Engine,1207292626002124,in-distro translation improvements,No,Medium,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1207057657009445,"[Duplicate] update support case activity notifs to support sending more info like Applicant Links, and message body",No,,,,NaT,2025-05-20,,Needs Assignment,Completed,,No
+Security & Compliance,nan - Customer Requests,1208364445451986,Have all contact methods associated with an app appear in same support ticket,No,,,,2024-10-11,2025-04-22,,Platform,Completed,,No
+Uncategorized,nan - Customer Requests,1208356539068407,Could we allow URLs in tables to become links that people can click into?,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1208345787864075,Ability to see dashboards in the preview pane ,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Payments & Disbursements,nan - Customer Requests,1208345754759603,[Duplicate] Ability to pre-approve (or approve with a delay in issuance) payments in Robocontroller,Yes,,,,NaT,2025-05-16,,Platform,Completed,,No
+Uncategorized,nan - Customer Requests,1208344233768516,Way to use text for representing external links in notifs ,No,Medium,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,International Rescue Committee - Customer Requests,1208342797497237,Address Line 2 Issue with GiveCard,No,Medium,International Rescue Committee,,NaT,2025-06-04,,Needs Assignment,Completed,,No
+Payments & Disbursements,Disbursements Engine,1208342797497233,[Duplicate] Allow for next day shipping to happen in Distro and not have to happen manually in GiveCard,No,Low,,,NaT,2025-06-04,,Platform,Completed,,No
+Payments & Disbursements,nan - Customer Requests,1208289024200515,Save Twilio Delivery Errors like we do Payment Errors,No,Low,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1208204702355961,RC GUI Upgrades,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1208204702355963,Program Pick List in RC,Yes,,,,2025-10-07,,,Needs Assignment,Open,,No
+Payments & Disbursements,nan - Customer Requests,1208204702355971,GiveCard payment value units should be $$,Yes,,,,2025-10-07,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1208204702355974,RC Task Reconciliation Window Size,Yes,,,,2025-10-07,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1208248849470189,Clear input screen after anticipate action complete,Yes,,,,2025-10-07,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1208181152257011,"Prevent publishing if we are missing target field, value, label, etc.",No,Low,,,NaT,,,Needs Assignment,Open,,No
+Uncategorized,nan - Customer Requests,1208181152257009,Decryption functionality for ak-admins,No,Low,,,NaT,,,Needs Assignment,Open,,No
+Security & Compliance,nan - Customer Requests,1208171380088425,Data Dictionary Improvement - Add Subsurvey column to associate question with subsurvey,No,Medium,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,1208136576530685,Support MCC-based Restrictions on GiveCard Cards,No,Low,,,NaT,,40.0,Needs Assignment,Open,,No
+Eligibility & Workflow,nan - Customer Requests,1208136576530694,Support Assigning Merchant Rules to GiveCard Cards Automagically,Yes,,,,NaT,,,Platform,Open,,No
+Payments & Disbursements,Disbursements Engine,1208136576530695,Support Merchant Rules in Distro,Yes,,,,NaT,,,Platform,Open,,No
+Uncategorized,nan - Customer Requests,Truncated at 500 rows.,,No,,,,NaT,,,Needs Assignment,Open,,No
