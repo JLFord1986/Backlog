@@ -14,4 +14,4 @@ jobs:
         uses: peter-evans/create-issue-from-file@v5
         with:
           title: ${{ steps.csv.outputs.title }}
-          content-filepath: ./issues.csv
+          content-filepath: ./aidkit_engineering_backlog_reorganized.csv
